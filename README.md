@@ -1,5 +1,4 @@
-##测试2023-03-14
-## ziceshi
+
 
 # glados-checkin
   每天自动签到（天数+1），自动推送结果  
@@ -45,5 +44,5 @@ Actions > Cloud189Checkin > build
 
 
 
-此后，将会在每天半夜12点多会自动签到一次  
+此后，将会在每天9：00会自动签到一次  
 若有需求，可以在[.github/workflows/python-publish.yml]中自行修改  
