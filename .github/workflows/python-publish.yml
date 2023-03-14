@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron:  0 9 * * * #每天早上9点
+    - cron:  0 9 * * * 
 
 jobs:
   build:
